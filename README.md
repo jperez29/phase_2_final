@@ -1,6 +1,6 @@
-# first_project_phase3
+### first_project_phase3
 
-# Topic: Infectious Diseases from California
+# Topic: Infectious Diseases
 
 ### What are infectious Diseases?
 
@@ -13,3 +13,5 @@ When the immune system of a host is fully functional, disease symptoms may not d
 The discovery of antibiotics has helped slow down the spread of infectious diseases, but the misused and overused of them are creating antibiotic-resistant bacteria. It is critical to keep track of infectious diseases as they are a major public health problem.
 
 [source](https://www.sciencedirect.com/topics/immunology-and-microbiology/infectious-diseases)
+
+The goal of this project is to analyse the spread of infectious diseases in California.
